@@ -1,0 +1,117 @@
+
+.display{
+    color: white;
+    font-size: 30px;
+    width: 600px;
+    background-color: black;
+height: 100px; 
+position: absolute;
+top: -105px;
+left: 0px;
+}
+
+
+.maindiv{
+    position: absolute;
+    left: 600px;
+top: 280px;
+}
+
+.btn2:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn3:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn4:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn5:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn6:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn7:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn8:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn9:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn10:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn11:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn12:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn13:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn14:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn15:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn16:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn17:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn18:hover{
+    color: black;
+    background-color:cyan;
+}
+
+.btn19:hover{
+    color: black;
+    background-color:cyan;
+}
+
+
+.btn2, .btn3 ,   .btn4, .btn5 , .btn6 , .btn7 , .btn8 , .btn9 , .btn10 , .btn11 ,.btn12 ,.btn13 ,.btn14 ,.btn15 ,.btn16 ,.btn17 ,.btn18 ,.btn19{
+    width: 200px;
+border-radius: 10px;    
+    background-color: black;
+    color: aqua; 
+font-size: 50px;
+}
